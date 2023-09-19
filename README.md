@@ -50,3 +50,12 @@ I'm a beginner web developer. My journey in IT began with courses on HTML/CCS la
 
 ---
 
+<!-- ### 💻 Courses completed:
+
+| Courses                                                         | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| https://edu.fls.guru - курс з верстки сайтів                    | 09/2023 - 00/2023 |
+| https://edu.fls.guru/js.html - курс з JavaScript                | 00/2024 - 00/2024 |
+
+---
+
