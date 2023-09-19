@@ -71,4 +71,4 @@ I'm a beginner web developer. My journey in IT began with courses on HTML/CCS la
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zhovten13)
+
