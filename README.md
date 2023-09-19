@@ -50,12 +50,25 @@ I'm a beginner web developer. My journey in IT began with courses on HTML/CCS la
 
 ---
 
-<!-- ### 💻 Courses completed:
+### 💻 Courses completed:
 
-| Courses                                                         | Date              |
+| Courses                                                         |       Date        |
 | ----------------------------------------------------------------| :---------------: |
-| https://edu.fls.guru - курс з верстки сайтів                    | 09/2023 - 00/2023 |
-| https://edu.fls.guru/js.html - курс з JavaScript                | 00/2024 - 00/2024 |
+| https://edu.fls.guru - Курс з верстки сайтів                    | 09/2023 - 00/2023 |
+| https://edu.fls.guru/js.html - Курс з JavaScript                | 00/2024 - 00/2024 |
 
 ---
+### ⚙️ GitHub statistics:
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=zhovten13&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhovten13&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zhovten13)
