@@ -4,7 +4,7 @@ Hi there, I'm  Oleksii ![](https://user-images.githubusercontent.com/18350557/17
 Trainee / Junior Front-end developer
 ------------------------------------
 
-I'm a beginner web developer. My journey in IT began with courses on HTML/CCS layout from Evgeniy Andikanich. During the course, I study theory and apply it in practice. After markup language, I want to take a course on Javascript and Vue.js.
+I'm a beginner web developer. My journey in IT began with courses on HTML/CCS layout. During the course, I study theory and apply it in practice. After markup language, I want to take a course on Javascript and Vue.js.
 
 *   🌍  I'm based in Ukraine, Kharkiv
 *   🖥️  See my portfolio at [Coming-Soon-Stay-Tuned](http://coming-soon-stay-tuned)
