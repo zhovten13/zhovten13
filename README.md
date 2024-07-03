@@ -49,14 +49,6 @@ I'm a beginner web developer. My journey in IT began with courses on HTML/CCS la
 </div>
 
 ---
-
-### 💻 Courses completed:
-
-| Courses                                                         |       Date        |
-| ----------------------------------------------------------------| :---------------: |
-| https://edu.fls.guru - Курс з верстки сайтів                    | 09/2023 - 00/2023 |
-| https://edu.fls.guru/js.html - Курс з JavaScript                | 00/2024 - 00/2024 |
-
 ---
 ### ⚙️ GitHub statistics:
 
